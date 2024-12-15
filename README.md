@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Eyesore123.
+- 👋 Hi, my name is Joni.
 - 👀 I’m interested in coding, reading and gaming.
-- 🌱 I’m currently learning JS and Python.
+- 🌱 I’m currently learning JS and JS based libraries, such as React and Vue.
+  I want to start my own software business one day. Until then, I'll try to make new projects consistently and add my new projects here.
 - 💞️ I’m not looking to do any collabs atm.
 - 📫 How to reach me: email me at joni.putkinen@protonmail.com.
 
