@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Joni. Check out my homepage in here: https://eyesore123.github.io/Joni-s-portfolio/
+- 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js.
   I want to start my own software business one day. Until then, I'll try to make new projects consistently and add them here.
