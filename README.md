@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a3027eb1-70ec-4d4a-a2cd-e0ff1aed7af2" alt="Description" width="500" height="auto">
+<img src="https://github.com/user-attachments/assets/a3027eb1-70ec-4d4a-a2cd-e0ff1aed7af2" alt="Description" width="400" height="auto">
 </div>
 
 
