@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
+- I'm not a fan of coding but I like tinkering.
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js. For some reason I do almost everything with JavaScript. But I use PHP for backend.
   I want to start my own software business one day. Until then, I'll try to make new projects consistently and add them here.
 - I'm a sports management professional and have been previously working in the municipal sector. Coding is mainly a hobby.
