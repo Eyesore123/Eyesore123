@@ -2,6 +2,7 @@
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
 - I'm not a fan of coding but I like tinkering.
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js. For some reason I do almost everything with JavaScript. But I use PHP for backend.
+- Also I'm tinkering with AI tools and exploring the new possibilities offered by most recent AI tools, such as ChatGPT and Deepseek (large language model).
   I want to start my own software business one day. Until then, I'll try to make new projects consistently and add them here.
 - I'm a sports management professional and have been previously working in the municipal sector. Coding is mainly a hobby.
 - 💞️ I’m not looking to do any collabs at the moment, but you're free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
