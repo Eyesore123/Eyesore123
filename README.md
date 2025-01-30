@@ -6,7 +6,7 @@
   I want to start my own software business one day. But now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
 - I'm a sports management professional and have been previously working in the municipal sector. Coding is mainly a hobby.
 - 💞️ I’m not looking to do any collabs at the moment, but you're free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
-- I use course material from different courses in most of my projects. I like adding new features and trying to make course projects a little better. I have some original projects that I made from scratch including: recipe app, portfolio website and philosopher quiz. I have also made a couple of simple websites for business use.
+- I use course material from different courses in many of my projects, but I only add those projects to my repos when they are heavily modified. I like adding new features to course projects and trying to them a little better. Most of my projects are original and I made them from scratch including: recipe app, portfolio website and philosopher quiz. I have also made a couple of simple websites for business use.
 - 📫 How to reach me: email me at joni.a.putkinen@gmail.com.
 
 ----------------------------------------------------------------------
