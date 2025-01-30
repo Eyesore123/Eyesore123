@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
+- I know I shouldn't say 'homepage' but landing page. From the perspective of website routing it is often the case that the homepage is not the landing page, but when it comes to Finnish - my native language -, people talk about "homepage".
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
 - I'm not a fan of coding but I like tinkering.
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js. For some reason I do almost everything with JavaScript. But I use PHP for backend.
