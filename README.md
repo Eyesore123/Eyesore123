@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - I know I shouldn't say 'homepage' but landing page. From the perspective of website routing it is often the case that the homepage is not the landing page, but when it comes to Finnish - my native language -, people talk about 'homepages'.
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
-- I'm not a fan of coding but I like tinkering. I've been a fan of games since I was a child and felt great excitement and accomplishment when I was able to make a few simple browser games.
+- I'm not a fan of coding but I like tinkering. I've been a fan of games since I was a child and felt great excitement and accomplishment when I was able to make my own games with JavaScript.
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js. For some reason I do almost everything with JavaScript. But I use PHP for backend.
 - I'm also tinkering with AI tools and exploring the new possibilities of large language models (ChatGPT and Deepseek).
   I want to start my own software business one day. But now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
