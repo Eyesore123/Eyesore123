@@ -5,6 +5,7 @@
 - 🌱 Currently I'm learning React.js, Vue.js and Next.js. I'm trying out C# in case I want to pursue game development. For some reason I do almost everything with JavaScript. But I use PHP for backend.
 - I'm also tinkering with AI tools and exploring the new possibilities of large language models (ChatGPT and Deepseek).
   I want to start my own software business one day. But now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
+  In the future I'd like to do at least a good-looking portfolio site, a space invaders and tetris game, a project management site with advanced tools and an app for work team coordination and scheduling.
 - I'm a sports management professional and have been working in the municipal sector. Coding is mainly a hobby.
 - 💞️ I’m not looking to do any collabs at the moment, but you're free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
 - I use course material from different courses in many of my projects, but I add here only projects that are modified to some degree. I like adding new features to course projects and trying to make them a little better. Most of my projects are original including: recipe app, snake game, portfolio website, math puzzle game and philosopher quiz. I've made a couple of simple websites for business use.
