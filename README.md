@@ -1,3 +1,4 @@
+
 - 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - I know I shouldn't say 'homepage' but landing page. From the perspective of website routing it is often the case that the homepage is not the landing page, but when it comes to Finnish - my native language -, people talk about 'homepages'.
 - I'm not a fan of coding but I like tinkering. I've been a fan of games since I was a child and felt great excitement and accomplishment when I was able to make my own games with JavaScript. I want to make games that even I would want to play. Honestly my projects do not look that good but I always want to make the user experience as good as possible.
@@ -10,7 +11,21 @@
   In the future I'd like to do at least a good-looking portfolio site, space invaders and tetris games, a project management site with advanced tools and an app for work team coordination and scheduling.
 - I'm a sports management professional and have been working in the municipal sector. Coding is mainly a hobby.
 - 💞️ I’m ready to work together on some new project! You're also free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
-- 📫 How to reach me: email me at joni.a.putkinen@gmail.com.
+- 📫 How to reach me: email me at joni.a.putkinen@gmail.com.<br><br><br><br>
+
+
+<div align="center">
+  <h1>Languages I Use</h1><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyesore123&theme=shadow_blue&show_icons=true">
+</div><br><br>
+
+
+<div align="center">
+  <h1>Github stats</h1><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Eyesore123&theme=shadow_blue&show_icons=true"
+  </div><br><br>
+
+
 
 ----------------------------------------------------------------------
 
