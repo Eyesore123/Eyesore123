@@ -5,12 +5,12 @@
 - All my projects can be easily copied and pasted into your working directory. I have instructions in my repos only when set-up requires some kind of installation.
 -  I use course material from different courses in many of my projects, but I add here only projects that are modified to some degree. I like adding new features to course projects and trying to make them a little better. Most of my projects are original including: snake game, recipe app, portfolio website, math puzzle game and philosopher quiz. I've made a couple of simple websites for business use.
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
-- 🌱 Currently I'm learning React.js, Vue.js and Next.js. I'm trying out C# in case I want to pursue game development. It kinda makes we want to learn C++ for game development. For some reason I do almost everything with JavaScript. But I use PHP for backend.
+- 🌱 Currently I'm learning React.js, Vue.js and Next.js. I'm trying out C# in case I want to pursue game development, and currently I'm making small desktop apps with C#. I kinda want to learn C++ for game development. For some reason I do almost everything with JavaScript and JavaScript is the only language I'm truly comfortable with. I use PHP for backend but am familiar with Node.js and other backend technologies.
 - I'm also tinkering with AI tools and exploring the new possibilities of large language models (ChatGPT and Deepseek).
   I want to start my own software business one day, but now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
   In the future I'd like to do at least a good-looking portfolio site, space invaders and tetris games, a project management site with advanced tools and an app for work team coordination and scheduling.
 - I'm a sports management professional and have been working in the municipal sector. Coding is mainly a hobby.
-- 💞️ I’m ready to work together on some new project! You're also free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
+- 💞️ I’m ready to work together on some new project! I take part in open source projects on the easier end so if you need extra hands, hit me up! You're also free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
 - 📫 How to reach me: email me at joni.a.putkinen@gmail.com.<br><br><br><br>
 
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <h1>Github stats</h1><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Eyesore123&theme=shadow_blue&show_icons=true"
+<img src="https://github-readme-stats.vercel.app/api?username=Eyesore123&theme=shadow_blue&show_icons=true&rank_icon=github"
   </div><br><br>
 
 
