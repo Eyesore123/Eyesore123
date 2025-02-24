@@ -1,16 +1,17 @@
 
-- 👋 Hi, my name is Joni. Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
+- 👋 Hey, what's up? My name is Joni. Welcome and enjoy your stay! Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - I know I shouldn't say 'homepage' but landing page. From the perspective of website routing it is often the case that the homepage is not the landing page, but when it comes to Finnish - my native language -, people talk about 'homepages'.
 - I'm not a fan of coding but I like tinkering. I've been a fan of games since I was a child and felt great excitement and accomplishment when I was able to make my own games with JavaScript. I want to make games that even I would want to play. Honestly my projects do not look that good but I always want to make the user experience as good as possible.
 - All my projects can be easily copied and pasted into your working directory. I have instructions in my repos only when set-up requires some kind of installation.
 -  I use course material from different courses in many of my projects, but I add here only projects that are modified to some degree. I like adding new features to course projects and trying to make them a little better. Most of my projects are original including: snake game, recipe app, portfolio website, math puzzle game and philosopher quiz. I've made a couple of simple websites for business use.
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
-- 🌱 Currently I'm learning React.js, Vue.js and Next.js. I'm trying out C# in case I want to pursue game development, and currently I'm making small desktop apps with C#. I kinda want to learn C++ for game development. For some reason I do almost everything with JavaScript and JavaScript is the only language I'm truly comfortable with. I use PHP for backend but am familiar with Node.js and other backend technologies.
-- I'm also tinkering with AI tools and exploring the new possibilities of large language models (ChatGPT and Deepseek).
-  I want to start my own software business one day, but now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
-  In the future I'd like to do at least a good-looking portfolio site, space invaders and tetris games, a project management site with advanced tools and an app for work team coordination and scheduling.
-- I'm a sports management professional and have been working in the municipal sector. Coding is mainly a hobby.
-- 💞️ I’m ready to work together on some new project! I take part in open source projects on the easier end so if you need extra hands, hit me up! You're also free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
+- 🌱 Currently I'm learning React.js, Vue.js and Next.js. I'm trying out C# in case I want to pursue game development, and currently I'm making small desktop apps with C#. I kinda want to learn C++, too. For some reason I do almost everything with JavaScript, and JavaScript is the only language I'm truly comfortable with. I'm working on my Python skills and my plan is to make a few games using Python.
+- Recently I've been building small games and apps with different programming languages. I want to get a taste of different possibilities and languages before committing to a single career path. I'm also tinkering with AI tools and exploring the new possibilities of large language models (ChatGPT and Deepseek).
+- I use PHP for backend but am familiar with Node.js.
+- I want to start my own software business one day, but now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
+- In the future I'd like to do at least a good-looking portfolio site, space invaders and tetris games, a project management site with advanced tools and an app for work team coordination and scheduling.
+- I'm a sports management professional and have been working in the municipal sector. Coding is mainly a hobby and I've never worked in the tech field.
+- 💞️ I’m ready to work together on some new project! I take part in open source projects on the easier end, so if you need extra hands, hit me up! You're also free to send me feedback after taking a look at my projects. More projects coming soon. Thanks.
 - 📫 How to reach me: email me at joni.a.putkinen@gmail.com.<br><br><br><br>
 
 
