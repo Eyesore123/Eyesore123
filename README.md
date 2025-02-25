@@ -17,7 +17,7 @@
 
 <div align="center">
   <h1>Languages I Use</h1><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyesore123&theme=shadow_blue&show_icons=true&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyesore123&theme=shadow_blue&show_icons=true&langs_count=8">
 </div><br><br>
 
 
