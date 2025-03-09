@@ -7,7 +7,7 @@
 - I want to start my own software business one day, but now I'm fully focusing on my personal projects. I'll try to make new projects consistently and add them here. I have so many great ideas about what I want to do.
 - In the future I'd like to do at least a good-looking portfolio site with Next.js, space invaders and tetris games in JavaScript, a project management site with advanced tools and an app for work team coordination and scheduling.
 - 👀 Hobbies: coding, reading, gaming, calisthenics, anime/manga.
-- 🌱 Currently I'm learning React.js and Next.js, and most of my time goes to fiddling with these frameworks.
+- 🌱 Currently I'm learning React.js and Next.js, and most of my time goes to fiddling with these frameworks. I'm trying to learn by making a web store with Next.js, React Redux and TypeScript.
 - I'm trying out C# in case I want to pursue game development, and currently I'm making small desktop apps with C#. I kinda want to learn C++, too. For some reason I do almost everything with JavaScript, and JavaScript is the only language I'm truly comfortable with at the moment. I'm working on my Python skills and my plan is to make a few games using Python.
 - Recently I've been building small games and apps with different programming languages. I want to get a taste of different possibilities and languages before committing to a single career path. I'm also tinkering with AI tools and exploring different possibilities of utilizing the power of large language models (ChatGPT and Deepseek).
 - I use PHP for backend but am familiar with Node.js.
