@@ -1,5 +1,6 @@
 
-- 👋 Hey, what's up? My name is Joni. Welcome and enjoy your stay! Check out my homepage: https://eyesore123.github.io/Joni-s-portfolio/
+- 👋 Hey, what's up? My name is Joni. Welcome and enjoy your stay! Check out my homepage: https://jonis-portfolio.netlify.app/
+- You can also check my previous homepage that I'm stil updating every now and then: https://eyesore123.github.io/Joni-s-portfolio/
 - I know I shouldn't say 'homepage' but landing page. From the perspective of website routing it is often the case that the homepage is not the landing page, but when it comes to Finnish - my native language -, people talk about 'homepages'.
 - I'm not a fan of coding but I like tinkering. I've been a fan of games since I was a child and felt great excitement and accomplishment when I was able to make my own games with JavaScript. I want to make games that even I would want to play. Honestly my projects do not look that good but I always want to make the user experience as good as possible.
 - 🌱 Right now I'm practicing Laravel for web dev and Figma for mock-ups. Recently I finished a web store that I made using Next.js, React Redux, TypeScript and Firebase.
