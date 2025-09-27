@@ -19,12 +19,6 @@ You can send me feedback after taking a look at my projects. More projects comin
 
 
 <div align="center">
-  <h1>Languages I Use</h1><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyesore123&theme=shadow_blue&show_icons=true&langs_count=7">
-</div><br><br>
-
-
-<div align="center">
   <h1>Github stats</h1><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Eyesore123&theme=shadow_blue&show_icons=true&rank_icon=github"
   </div><br><br>
