@@ -1,6 +1,6 @@
 
-- 👋 Hey, what's up? My name is Joni. Welcome and enjoy your stay! Check out my homepage: https://jonis-portfolio.netlify.app/
-- Recently I've been working mostly on my new blog site: https://blog-app-production-16c2.up.railway.app/
+- 👋 Hey, what's up? My name is Joni. Welcome and enjoy your stay! Check out my homepage: https://joniputkinen.com/
+- Recently I've been working mostly on my new blog site: https://blog.joniputkinen.com/
 - You can also take a look at my previous homepage: https://eyesore123.github.io/Joni-s-portfolio/
 - 🌱 Right now I'm still adding features to my blog app. Before my blog app project I made a quote generator using Python, Angular.js and postgreSQL. And recently I finished a web store that I made using Next.js, React Redux, TypeScript and Firebase.
 - All my projects can be easily copied and pasted into your working directory. Or you can just use "git clone". I have instructions in my repos only when set-up requires some kind of installation.
